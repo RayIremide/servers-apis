@@ -1,0 +1,37 @@
+[
+  {
+    "product_name": "20 Tubers of Yam",
+    "price": 10000,
+    "currency": "NGA",
+    "size": "small sized",
+    "id": 0
+  },
+  {
+    "product_name": "Carton of Indomitable",
+    "price": 5000,
+    "currency": "NGA",
+    "size": "small sized",
+    "id": 7
+  },
+  {
+    "product_name": "MINIMIE CHINCHIN",
+    "price": 1200,
+    "currency": "NGA",
+    "size": "Large sized",
+    "id": 8
+  },
+  {
+    "product_name": "Bag of Rice",
+    "price": 50000,
+    "currency": "NGA",
+    "size": "Large sized",
+    "id": 6
+  },
+  {
+    "product_name": "Potatoes",
+    "price": 3000,
+    "currency": "NGA",
+    "size": "Small sized",
+    "id": 4
+  }
+]
